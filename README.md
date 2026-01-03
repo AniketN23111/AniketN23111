@@ -43,10 +43,3 @@
 ---
 
 ### ✨ *“Code. Learn. Build. Repeat.”*
-
-If you want, I can also:
-👉 Add a **Projects section**
-👉 Customize it to look **more minimal / more modern**
-👉 Convert it into a **portfolio format**
-
-Just tell me your preference 😊
